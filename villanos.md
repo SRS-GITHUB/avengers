@@ -2,3 +2,4 @@
 
 * Vegeta
 * Bulma
+* Piccolo
